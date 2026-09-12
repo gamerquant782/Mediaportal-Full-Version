@@ -240,4 +240,4 @@ This repository serves as the official landing page for MediaPortal. The softwar
 **Get the most recent version of MediaPortal today!**
 
 ---
-**Last updated:** 2026-09-12 08:28:21 UTC
+**Last updated:** 2026-09-12 12:42:57 UTC
